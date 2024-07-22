@@ -1,7 +1,7 @@
 # Classificação de Herói - Projeto DIO.me
 Desafio de código/projeto do curso de Linguagem de Programação/JavaScript da DIO.me
 
-## Foi adicionada a opção para que o usuário possa realizar um input da informação, como o nível do herói e descobrir qual é a sua classificação. Também poderá escolher a opção de voltar ao menu anterior ou continuar com a classificação.
+Foi adicionada a opção para que o usuário possa realizar um input da informação, como o nível do herói e descobrir qual é a sua classificação. Também poderá escolher a opção de voltar ao menu anterior ou continuar com a classificação.
 
 
 # 1️⃣ Desafio Classificador de nível de Herói
